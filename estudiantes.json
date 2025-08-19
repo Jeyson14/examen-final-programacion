@@ -1,0 +1,24 @@
+[
+  {
+    "nombre": "J0S3 ANT0N10",
+    "apellido": "ACUÑ@ FERN@NDEZ",
+    "bd": "examen2",
+    "consecutivo": 1001,
+    "mision": "Realiza una operación matemática con el consecutivo para obtener un valor entre 1 y 50 y busca en la base de datos la información de ese registro."
+  },
+  {
+    "nombre": "K1TZ3LL @L3X@NDR@",
+    "apellido": " @LV@R3Z C@STR0 ",
+    "bd": "examen2",
+    "consecutivo": 1002,
+    "mision": "Realiza una operación matemática con el consecutivo para obtener un valor entre 1 y 50 y busca en la base de datos la información de ese registro."
+  },
+  {
+    "nombre": "J3YS0N J0S3",
+    "apellido": "CH@V3Z P1N3D@",
+    "bd": "examen2",
+    "consecutivo": 1008,
+    "mision": "Realiza una operación matemática con el consecutivo para obtener un valor entre 1 y 50 y busca en la base de datos la información de ese registro."
+  }
+]
+
